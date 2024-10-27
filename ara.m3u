@@ -811,10 +811,10 @@ https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8?token=Xnx
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC Leb (1080p)
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1729999855~acl=/rlbclive/rlbc.smil/*~hmac=68be889e3ee05af4526f7c5879477b0480fd668a33153a7244ee4a2328b637d4
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=8100622c0e61dea5d9e9a29fb13a810827be68ed-87681d4696ae5a522e8072033da7dbc8-1729994329-1729983529
+https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=0e9e23d40f7bbb340bbe3a61b9164b562e0a4c38-79554738d1b45281e1e50c25a0f7ec48-1730006695-1729995895
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=c56e1d2f4f1cf786836f761d53be305b7b16382a-0fc551bfddfc4cb87b94081125b22dae-1729994616-1729983816
+https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=fd0c1f31a886b7968839f9a875557c88a45976a8-9d96d7255b3d73d1f8c32fdf5c97e125-1730006758-1729995958
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=61362c9723f372ec6e67bbcef074fbbd3d3733a9-3ca79407dd244cf211168e5bb8531d2c-1729994843-1729984043
-#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (1080p)
+https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=5806cc38e2ebb74e241f05035ec012571eadfe7b-326b08d4dcbde4fb1fe34cfe5e50f817-1730006797-1729995997
+#EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (780p)
 #EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
