@@ -817,4 +817,4 @@ https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=5806cc38e2ebb74e241f05035ec012571eadfe7b-326b08d4dcbde4fb1fe34cfe5e50f817-1730006797-1729995997
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (720p)
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
