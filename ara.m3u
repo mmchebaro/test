@@ -817,9 +817,9 @@ https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8?token=Xnx
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC Leb (1080p)
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1730031572~acl=/rlbclive/rlbc.smil/*~hmac=7c20bfd94d066db03ea04ae16ecad17a2be5f68009f1962b7d4b8fbb0a4512af
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=0e9e23d40f7bbb340bbe3a61b9164b562e0a4c38-79554738d1b45281e1e50c25a0f7ec48-1730006695-1729995895
+https://el11.elahmad.com/tv707_www.elahmad.com_lbc/index.m3u8?token=586f397cb081c6e51793830b0f86b213bca7b4d8-78d289b5bfc0d38b08941182e62db4b8-1730020860-1730010060
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=fd0c1f31a886b7968839f9a875557c88a45976a8-9d96d7255b3d73d1f8c32fdf5c97e125-1730006758-1729995958
+https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/index.m3u8?token=0ef9c6fc3ac9e4c032903f4d47d7a3499e21b45c-8eda77595b0df4744ddbf82f48894f24-1730020932-1730010132
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=5806cc38e2ebb74e241f05035ec012571eadfe7b-326b08d4dcbde4fb1fe34cfe5e50f817-1730006797-1729995997
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (720p)
