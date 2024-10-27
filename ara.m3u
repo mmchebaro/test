@@ -311,7 +311,7 @@ https://edge66.magictvbox.com/liveApple/CBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CBC.eg" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/CBC-DRAMA.jpg" group-title="General",CBC Drama (720p) [Not 24/7]
 https://edge66.magictvbox.com/liveApple/CBCDrama/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rotana.eg" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/Rotana-Aflam.jpg" group-title="General",Rotana Aflam
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/chunks.m3u8?nimblesessionid=70688894&token=demo
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1 tvg-id="Rotana.eg" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/ro_pls.jpg" group-title="General",Rotana Cinama
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_2/chunklist.m3u8
 #EXTINF:-1 tvg-id="CBCSofra.eg" tvg-logo="https://i.imgur.com/YAdk2WR.png" group-title="Lifestyle",CBC Sofra (720p) [Not 24/7]
