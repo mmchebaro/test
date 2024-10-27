@@ -805,9 +805,9 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 tvg-id="ZitounaTV.tn" tvg-logo="https://i.imgur.com/LzK8fHv.png" group-title="Undefined",Zitouna TV (480p) [Not 24/7]
 https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 #EXTINF:-1 tvg-id="aljadeed.tv" tvg-logo="https://www.aljadeed.tv/images/Logo.png" group-title="Lebanon",Aljadeed TV (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=ea95566a1f082c50b2e9a1e8d604b09cbd5310bf-c8cb8cae3d4b498918ec3ebb0a354487-1729993813-1729983013
+https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?token=ad531a3175ba256e29696309a9ceff8970afedc4-07a98d19739df48b7a994909b2e7c84d-1730004898-1729994098
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
-https://hms.pfs.gdn/stream/mtv.m3u8?token=vnhjP9VVu8xhYdmUK-0l8w:rgFCtkl88R0dWqW2Bs2ZUUWGMeJpuisLtJr4XpBrRlgqjTNkU9SUbFbiHxsjJX07kmTAqLCl3-38PC9ZDiNEn0dSZHGzZZF75xEFTqbPn9GPugJrxF6m1BaAyVcRAgiI6Gtdk_Vgc915nFEShLs-LwY6kM6qYiN-7uGXtFK4KK1QIs61wHn1-SHsnjeqCe7Bx1RWeqBarVk7OVIPLcYz3r7ViR3ZZykOwV8PopGxETk
+https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8?token=XnxAGSowcEgcH_UMEADY7A:An69YW8LU-9rECy-v9bXivE8mTTqnJkv3Op7yz_7puAHwjYItXyLEvLCsUFS6EN-Tz5aNmQUS0f2salKyOgvXL0paR70T9xyqeZQEfNRouWUxekh-yAr8ifcpacWoxqy3iHRlh2QEk9O69AnSwMufft8X-Sp6cg8kilFpTQDl8khQSunGUn62x6S69g5H3dtpxRLRRuKJSggXltHkgHWcg
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC Leb (1080p)
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1729999855~acl=/rlbclive/rlbc.smil/*~hmac=68be889e3ee05af4526f7c5879477b0480fd668a33153a7244ee4a2328b637d4
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
