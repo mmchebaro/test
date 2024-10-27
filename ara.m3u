@@ -815,7 +815,7 @@ https://el11.elahmad.com/tv707_www.elahmad.com_aljadeed/tracks-v1a1/mono.m3u8?to
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/hms/v1/broadcast/mtv/primary/tracks-v4a1/mono.m3u8?token=XnxAGSowcEgcH_UMEADY7A:An69YW8LU-9rECy-v9bXivE8mTTqnJkv3Op7yz_7puAHwjYItXyLEvLCsUFS6EN-Tz5aNmQUS0f2salKyOgvXL0paR70T9xyqeZQEfNRouWUxekh-yAr8ifcpacWoxqy3iHRlh2QEk9O69AnSwMufft8X-Sp6cg8kilFpTQDl8khQSunGUn62x6S69g5H3dtpxRLRRuKJSggXltHkgHWcg
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC Leb (1080p)
-https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1730030694~acl=/rlbclive/rlbc.smil/*~hmac=48ef86bdf4a673afd137eec8bb37f59cb8f3f4f00ca280e7e9332c1a509e834b
+https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1730030970~acl=/rlbclive/rlbc.smil/*~hmac=6266ef98a3f4593bf5e871dad275f812042a1847b516827283b1cfabd2d34fc2
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=0e9e23d40f7bbb340bbe3a61b9164b562e0a4c38-79554738d1b45281e1e50c25a0f7ec48-1730006695-1729995895
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
