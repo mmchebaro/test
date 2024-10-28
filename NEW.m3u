@@ -3305,7 +3305,7 @@ http://600600.org:8080/play/live.php?mac=00:1a:79:56:28:99&stream=97720&extensio
 #EXTINF:0 CUID="3283" tvg-name="AR| Saudi Sunnah" group-title="AR| Arabic Channel",AR| Saudi Sunnah
 http://600600.org:8080/play/live.php?mac=00:1a:79:56:28:99&stream=97721&extension=ts
 #EXTINF:0 CUID="3284" tvg-name="AR| OTV" group-title="AR| Arabic Channel",AR| OTV
-http://600600.org:8080/play/live.php?mac=00:1a:79:56:28:99&stream=97722&extension=ts
+http://600600.org:8080/play/live.php?mac=D0:03:DF:35:89:40&stream=97722&extension=ts
 #EXTINF:0 CUID="3285" tvg-name="AR| Lebanon TV" group-title="AR| Arabic Channel",AR| Lebanon TV
 http://600600.org:8080/play/live.php?mac=00:1a:79:56:28:99&stream=97723&extension=ts
 #EXTINF:0 CUID="3286" tvg-name="AR| Future Lebanon" group-title="AR| Arabic Channel",AR| Future Lebanon
