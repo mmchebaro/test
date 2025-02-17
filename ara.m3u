@@ -800,7 +800,7 @@ https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=b
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
 https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=51e0c9e5ed245248a717fd4933ca62e555828c43-d72eddf443697275f09e952b308f7147-1730152835-1730142035
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
-https://el11.elahmad.com/tv707_www.elahmad.com_nbn/tracks-v1a1/mono.m3u8?token=80a2f3ff6706f233db13ecd1a242b0aab426e20c-e78b9d67f5f6eeee9e81a3065890a4eb-1730152868-1730142068
+http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (720p)
 https://el22.elahmad.com/tv707_www.elahmad.com_teleliban/tracks-v1a1/mono.m3u8?token=9dda828fd9ff1142c077d5e9c24eb0a170e76082-4addef3a6fbde2694064c4f2af944b6d-1730152975-1730142175
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
