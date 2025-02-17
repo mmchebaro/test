@@ -811,7 +811,7 @@ https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessioni
 https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=779364441&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI1IDEwOjU3OjIwIFBNJmhhc2hfdmFsdWU9RVFxYmZSeGEwQVRlbTl4WjNoK0Zldz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" (1080p) tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon"
+#EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon" Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" group-title="Lebanon",Tele Leb (720p)
 https://tgn.bozztv.com/gin-36bay3/ga-teleliban/tracks-v1a1/mono.m3u8?nimblesessionid=779259319&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI1IDEwOjA4OjU1IFBNJmhhc2hfdmFsdWU9cExiUjU1UDJiRDlpUWJzbzhTVDR2Zz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
