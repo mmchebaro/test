@@ -814,7 +814,8 @@ http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb",tvg-name="Future TV" (1080p) tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon"
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" group-title="Lebanon",Tele Leb (720p)
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+https://tgn.bozztv.com/gin-36bay3/ga-teleliban/tracks-v1a1/mono.m3u8?nimblesessionid=779259319&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI1IDEwOjA4OjU1IFBNJmhhc2hfdmFsdWU9cExiUjU1UDJiRDlpUWJzbzhTVDR2Zz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTIz
+#https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://s1.ettehadlive.com/live/43/chunklist_w1452397326.m3u8
 ###########
