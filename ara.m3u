@@ -812,7 +812,7 @@ https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (720p)
-https://el22.elahmad.com/tv707_www.elahmad.com_teleliban/tracks-v1a1/mono.m3u8?token=9dda828fd9ff1142c077d5e9c24eb0a170e76082-4addef3a6fbde2694064c4f2af944b6d-1730152975-1730142175
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://s1.ettehadlive.com/live/43/chunklist_w1452397326.m3u8
 ###########
