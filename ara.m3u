@@ -168,7 +168,7 @@ https://tip.stream.tanasuh.tv:4434/live/smil:tanasuhtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TaybaTV.sd" tvg-name="Tayba TV (1080p)" tvg-logo="https://user-images.githubusercontent.com/41021857/75287296-67145080-581a-11ea-8978-5e31cdd84243.jpg" group-title="General",Tayba TV (1080p)
 https://mn-nl.mncdn.com/tayba/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Liban (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/5VPYxJi.png" group-title="General",Tele Liban (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="Elmouritania.mr" tvg-name="Télévision de Mauritanie (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/rErKqzS.png" group-title="General",Télévision de Mauritanie (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCK3909NQ9meg2KDYKF51Kmg.m3u8
 #EXTINF:-1 tvg-id="TeN.eg" tvg-name="TeN TV (720p) [Geo-blocked]" tvg-logo="https://i.imgur.com/gMnn6PD.png" group-title="General",TeN TV (720p) [Geo-blocked]
@@ -250,7 +250,7 @@ https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8
 #EXTINF:-1 tvg-id="NablusTV.ps" tvg-name="Nablus TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/GoLhaDK.png" group-title="Undefined",Nablus TV (720p) [Not 24/7]
 http://htvmada.mada.ps:8888/nabluslive/index.m3u8
 #EXTINF:-1 tvg-id="NBN.lb" tvg-name="NBN (720p)" tvg-logo="https://i.imgur.com/EefFcIk.png" group-title="Undefined",NBN (720p)
-#EXTVLCOPT:http-referrer=https://odysee.com
+http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="NessmaElJadida.tn" tvg-name="Nessma (1080p)" tvg-logo="https://i.imgur.com/66CJtdz.png" group-title="Undefined",Nessma (1080p)
 https://shls-live-ak.akamaized.net/out/v1/119ae95bbc91462093918a7c6ba11415/index.m3u8
 #EXTINF:-1 tvg-id="NidaeAlIslamRadio.sa" tvg-name="Nidae AlIslam Radio (720p)" tvg-logo="https://i.imgur.com/laEk64E.png" group-title="Undefined",Nidae AlIslam Radio (720p)
