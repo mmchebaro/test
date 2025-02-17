@@ -811,7 +811,7 @@ https://el11.elahmad.com/tv707_www.elahmad.com_lbc/tracks-v1a1/mono.m3u8?token=b
 https://el11.elahmad.com/tv707_www.elahmad.com_otv_lebanon/tracks-v1a1/mono.m3u8?token=51e0c9e5ed245248a717fd4933ca62e555828c43-d72eddf443697275f09e952b308f7147-1730152835-1730142035
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
-#EXTINF:-1 tvg-id="FutureTV.lb",Future TV (1080p) tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon"
+#EXTINF:-1 tvg-id="FutureTV.lb",tvg-name="Future TV" (1080p) tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon"
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png" group-title="Lebanon",Tele Leb (720p)
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
