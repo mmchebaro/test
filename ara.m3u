@@ -808,7 +808,7 @@ https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=173017394
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=779836611&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDI6NDI6MTMgQU0maGFzaF92YWx1ZT1uQThlY3BtVmhQNHgwTUQxR0NRMTJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=779364441&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNy8yMDI1IDEwOjU3OjIwIFBNJmhhc2hfdmFsdWU9RVFxYmZSeGEwQVRlbTl4WjNoK0Zldz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI0
+https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=783056803&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDI6MzY6NTEgQU0maGFzaF92YWx1ZT0wWlpVc0dPbUd5aTR4ZXkxbFRhczBRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon", Future TV
