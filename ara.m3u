@@ -804,7 +804,7 @@ https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessio
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-name="MTV Leb (1080p)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-name="LBC " tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC 
-https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=783060373&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDI6Mzg6MzYgQU0maGFzaF92YWx1ZT1XNlI1U05QNkpUVzNMdjk4enlFZlRnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
+https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1740019347~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=2eae7a1615002af29874ad8b0deaca9c791b99b6d669c503263c398b789c1e81/chunks.m3u8
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://live.kwikmotion.com/rlbclive/rlbc.smil/rlbcpublish/rlbc_source/hdntl=exp=1740019179~acl=%2frlbclive%2frlbc.smil%2f*~data=hdntl~hmac=c4c7d1e7ac9a63ed4e5b9bad5fdd7aaf2a0c0964721932e103963ed0553aa99f/chunks.m3u8
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
