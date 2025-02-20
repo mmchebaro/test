@@ -800,7 +800,7 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4ktp7A1.png" group-title="Business;Travel",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="aljadeed.tv" tvg-name="Aljadeed TV (1080p)" tvg-logo="https://www.aljadeed.tv/images/Logo.png" group-title="Lebanon",Aljadeed TV (1080p)
-https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=783053326&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDI6MzU6MDggQU0maGFzaF92YWx1ZT11TTVuSnhoWUFFcHRQTm1iOS9pZnZ3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=786220182&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDE6MzE6MTMgQU0maGFzaF92YWx1ZT1Ka0tNVitFMEZkS1ZxMkxuaGRKSzFBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-name="MTV Leb (1080p)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-name="LBC " tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC 
@@ -808,7 +808,7 @@ https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=173993324
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=783074619&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDI6NDU6MjkgQU0maGFzaF92YWx1ZT1aYlVaMUw0NGtZcC9ZWHFkaWp6cTNBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=783056803&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI1IDI6MzY6NTEgQU0maGFzaF92YWx1ZT0wWlpVc0dPbUd5aTR4ZXkxbFRhczBRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=786222607&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDI1IDE6MzI6MjMgQU0maGFzaF92YWx1ZT1DN2lmVFVkUVVLMnVMZkowWXlaL0ZnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon", Future TV
