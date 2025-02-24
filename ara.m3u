@@ -800,21 +800,21 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4ktp7A1.png" group-title="Business;Travel",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="aljadeed.tv" tvg-name="Aljadeed TV (1080p)" tvg-logo="https://www.aljadeed.tv/images/Logo.png" group-title="Lebanon",Aljadeed TV (1080p)
-https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=798532411&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDY6NTU6MzYgUE0maGFzaF92YWx1ZT00dFk4ME5pTEk0UGhidkxBRGdUcXh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=801779123&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI1IDU6NTM6NTQgUE0maGFzaF92YWx1ZT1ERlR2RVVaL3AxdzREZWtHck5XdFh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-name="MTV Leb (1080p)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-name="LBC " tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC 
 https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1740339119~acl=/rlbclive/rlbc.smil/*~hmac=21eb1f7080ee18de49af71b93064f166065692a4eff7d0b8d138abf65ec863cd
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
-https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=798536398&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDY6NTc6MDcgUE0maGFzaF92YWx1ZT0xazlmK1d6aWNNbi9sajlvbHNEdmV3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
+https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=801785767&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI1IDU6NTY6MzEgUE0maGFzaF92YWx1ZT1uc1lySldIY0ZSN21aRW5NbENXWmh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjA=
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=798534461&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDI1IDY6NTY6MjUgUE0maGFzaF92YWx1ZT1yOWlxUFdNMm56Z2RVUzdFL3hCWmR3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
+https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=801786973&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI1IDU6NTY6NTkgUE0maGFzaF92YWx1ZT1IZ0VmckRiSFJhblFmd0ErOTdWMjdRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjQ=
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon", Future TV
 https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiban.lb" tvg-name="Tele Leb (720p)" tvg-logo="https://www.teleliban.com.lb/assets/img/telelogo.png" group-title="Lebanon",Tele Leb (720p)
-https://tgn.bozztv.com/gin-36bay3/ga-teleliban/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMi8yMDI1IDc6MDQ6MjMgUE0maGFzaF92YWx1ZT03dG1sbzhNNzFGcXplWTUzOTdOTGR3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjM=
+https://tgn.bozztv.com/gin-36bay3/ga-teleliban/tracks-v1a1/mono.m3u8?nimblesessionid=801788488&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI1IDU6NTc6MzUgUE0maGFzaF92YWx1ZT1zS3hhdDUvTGd4UGxEcGpEZE5vbmdBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjM=
 #https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://s1.ettehadlive.com/live/43/chunklist_w1452397326.m3u8
