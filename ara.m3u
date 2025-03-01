@@ -800,7 +800,7 @@ https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8
 #EXTINF:-1 tvg-id="TunisieImmobilierTV.tn" tvg-name="Tunisie Immobilier TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/4ktp7A1.png" group-title="Business;Travel",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="aljadeed.tv" tvg-name="Aljadeed TV (1080p)" tvg-logo="https://www.aljadeed.tv/images/Logo.png" group-title="Lebanon",Aljadeed TV (1080p)
-https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=801779123&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDI1IDU6NTM6NTQgUE0maGFzaF92YWx1ZT1ERlR2RVVaL3AxdzREZWtHck5XdFh3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjI=
+https://tgn.bozztv.com/gin-36bay3/ga-aljadeed/tracks-v1a1/mono.m3u8?nimblesessionid=818956475&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODo0MzowOSBQTSZoYXNoX3ZhbHVlPWtwRzZmdkJ3ZkZEc2hpQ0xhSDZhZ3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMg==
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-name="MTV Leb (1080p)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-name="LBC " tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC 
