@@ -804,7 +804,7 @@ http://185.9.2.18/chid_391/mono.m3u8
 #EXTINF:-1 tvg-id="mtv.com.lb" tvg-name="MTV Leb (1080p)" tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg" group-title="Lebanon",MTV Leb (1080p)
 https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-id="www.lbcsat.tv" tvg-name="LBC " tvg-logo="http://azrotv.com/iphone/images/ar_jpg/lbcsat.jpg" group-title="Lebanon",LBC 
-https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=1740339119~acl=/rlbclive/rlbc.smil/*~hmac=21eb1f7080ee18de49af71b93064f166065692a4eff7d0b8d138abf65ec863cd
+https://games1.elahmad.xyz/tv788_www.elahmad.com_lbc/index.m3u8?token=b2332841ef10d69309b702067f6ebe55a6c12e3b-f304e07d8d5bc7e6a78d79c7574d2182-1772753131-1772751331
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://raw.elahmad.net/https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/rotana/lbc_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
