@@ -557,7 +557,7 @@ https://s1.ettehadlive.com/live/111/chunklist_w1210052524.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV (1080p)" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar (576p) [Not 24/7]" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" group-title="News",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-name="Al Masar TV (576p)" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
 https://master.starmena-cloud.com/hls/almasar.m3u8
@@ -818,7 +818,7 @@ https://tgn.bozztv.com/gin-36bay3/ga-teleliban/tracks-v1a1/mono.m3u8?nimblesessi
 #https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Al Manar
 https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Red TV" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="Lebanon",Red TV
+#EXTINF:-1 tvg-id="redtvlebanon.com" tvg-name="Red TV" tvg-logo="https://www.redtvlebanon.com/assets/images/REDTV.svg" group-title="Lebanon",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_480p/chunks.m3u8
 ###########
 #EXTM3U
