@@ -808,7 +808,7 @@ https://live.kwikmotion.com/rlbclive/rlbc.smil/playlist.m3u8?hdnts=exp=174033911
 #EXTINF:-1 tvg-id="www.lbgroup.tv" tvg-name="LBC Leb (1080p)" tvg-logo="https://www.lbcgroup.tv/images/LBCI-Logo02.png" group-title="Lebanon",LBC Leb (1080p)
 https://tgn.bozztv.com/gin-36bay3/ga-lbcint/tracks-v1a1/mono.m3u8?nimblesessionid=818977450&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODo0ODo1OSBQTSZoYXNoX3ZhbHVlPXRzZFp1ZXRSelR5SGZWUUU2ZnNlVVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yMA==
 #EXTINF:-1 tvg-id="otv.com.lb" tvg-name="OTV Leb (1080p)" tvg-logo="https://otv.com.lb/wp-content/themes/otv/inc/assets/images/logo.svg" group-title="Lebanon",OTV Leb (1080p)
-https://tgn.bozztv.com/gin-36bay4/ga-otvlebanon/tracks-v1a1/mono.m3u8?nimblesessionid=818982476&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjUgODo1MDoyNyBQTSZoYXNoX3ZhbHVlPTR0NTR4eWRRV0hIS21kdHJUb0xWU3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZzdHJtX2xlbj0yNA==
+https://www.ipslow.com/tv/hls/pr_all.php/https://otv.hibridcdn.net/otv/tv_abr/otv/tv_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="nbn.com.lb" tvg-name="NBN Leb (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/14/Nbn_lebanon.png/220px-Nbn_lebanon.png" group-title="Lebanon",NBN Leb (1080p)
 http://5.9.119.146:8883/nbn/index.m3u8
 #EXTINF:-1 tvg-id="FutureTV.lb" tvg-name="Future TV" tvg-logo="https://futuretvnetwork.com/wp-content/uploads/elementor/thumbs/logo-n2-qqnhnqlnwz4mw2vgbpmqru5ero9dpr4c1wt08jq8e8.png" group-title="Lebanon", Future TV
