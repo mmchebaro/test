@@ -568,7 +568,7 @@ https://live.cdnbridge.tv/Almasirah/Almasirah_all/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMasirahMubacher.ye" tvg-name="Al Masirah Mubacher (642p) [Not 24/7]" tvg-logo="https://i.imgur.com/0xHb3XM.jpg" group-title="News",Al Masirah Mubacher (642p) [Not 24/7]
 https://svs.itworkscdn.net/almasiramubacherlive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlMayadeenTV.lb" tvg-name="Al Mayadeen (576p)" tvg-logo="https://i.imgur.com/GtQOKeW.png" group-title="News",Al Mayadeen (576p)
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000.m3u8
 #EXTINF:-1 tvg-id="AlNajahNews.ps" tvg-name="Al Najah News (720p)" tvg-logo="https://i.imgur.com/c2bwn4G.png" group-title="News",Al Najah News (720p)
 https://streaming.najah.edu:8443/hls/AlNajah.m3u8
 #EXTINF:-1 tvg-id="AlNujabaTV.iq" tvg-name="Al Nujaba" tvg-logo="https://i.imgur.com/XWXehZL.png" group-title="News",Al Nujaba
