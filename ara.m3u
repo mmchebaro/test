@@ -558,7 +558,7 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV (1080p)" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
 https://bcovlive-a.akamaihd.net/4109c7ba30fd4a44ad9afe917c67a8c8/eu-central-1/6415809151001/playlist.m3u8
 #EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar (576p) [Not 24/7]" tvg-logo="https://i.imgur.com/sOQLV7L.png" group-title="News",Al Manar (576p) [Not 24/7]
-https://edge.fastpublish.me/live/index.m3u8
+https://edge.fastpublish.me/live/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id="AlMasarTV.ly" tvg-name="Al Masar TV (576p)" tvg-logo="https://play-lh.googleusercontent.com/FHPrsr391mPFqKfTq6ZdvWPZNVfsZeTAVQ8rjQF-NosnRdNipUy5xa43RWkiF4tGcQU" group-title="News",Al Masar TV (576p)
 https://master.starmena-cloud.com/hls/almasar.m3u8
 #EXTINF:-1 tvg-id="AlMashhad.ae" tvg-name="Al Mashhad (1080p)" tvg-logo="https://i.imgur.com/6G6fxs5.png" group-title="News",Al Mashhad (1080p)
