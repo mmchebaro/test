@@ -582,9 +582,9 @@ https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlarabiyaPortrait.ae" tvg-name="Sky News Arabia" tvg-logo="https://play-lh.googleusercontent.com/phi19fJAMvOxBWN4M1lb-EXIybEIaW176n-5uWXyne6IKL0eLUvWVItWhGE3HcqucxMy=w240-h480-rw" group-title="News",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV2.qa" tvg-name="Alaraby 2 TV (1080p)" tvg-logo="https://i.imgur.com/Gp5mNea.png" group-title="News",Alaraby 2 TV (1080p)
-https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/alaraby2publish/alaraby2_source/chunks.m3u8
 #EXTINF:-1 tvg-id="AlArabyTV.qa" tvg-name="Alaraby TV (1080p)" tvg-logo="https://i.imgur.com/YMqWEe4.png" group-title="News",Alaraby TV (1080p)
-https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/alaraby1publish/alaraby1_source/chunks.m3u8
 #EXTINF:-1 tvg-id="AlhaqeqaAldawlia.jo" tvg-name="Alhaqeqa Aldawlia (1080p)" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alhaqeqa-aldawlia-jo.png" group-title="News",Alhaqeqa Aldawlia (1080p)
 https://ghaasiflu.online/alhqeqa/index.m3u8
 #EXTINF:-1 tvg-id="Alhurra.us" tvg-name="Alhurra (720p)" tvg-logo="https://i.imgur.com/tiQp2sR.png" group-title="News",Alhurra (720p)
