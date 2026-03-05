@@ -821,7 +821,7 @@ https://edge.fastpublish.me/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="redtvlebanon.com" tvg-name="Red TV" tvg-logo="https://pbs.twimg.com/profile_images/1918266859490553856/c5BUsWZr_400x400.jpg" group-title="Lebanon",Red TV
 https://live.kwikmotion.com/redtvlive/redtv.smil/redtvpublish/redtv_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="VoiceofLebanon.lb@SD" tvg-logo="https://i.imgur.com/f8WcqRY.png" group-title="Lebanon",Voice of Lebanon (1080p)
-https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
+https://svs.itworkscdn.net/vdltvlive/vdltv.smil/vdltvpublish/vdltv/chunks.m3u8
 ###########
 #EXTM3U
 #EXTINF:-1 tvg-id="2M.ma@SD" tvg-logo="https://i.imgur.com/PJYTfHi.png" group-title="General",2M
