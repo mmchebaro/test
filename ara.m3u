@@ -554,7 +554,7 @@ https://live-hls-web-aja.getaj.net/AJA/01.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa" tvg-name="Al Jazeera Now (1080p)" tvg-logo="https://www.aljazeera.net/wp-content/uploads/2026/11/ajnow-poster-30th-sc-1793535133.jpg?resize=96%2C96&quality=80" group-title="News",Al Jazeera Now (1080p)
 https://live-hls-web-aja2-gcp.thehlive.com/AJA2/02.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera english (270p) " tvg-logo="https://i.imgur.com/5dNJlLo.png" group-title="News",Al Jazeera English (270p) 
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraMubasher.qa" tvg-name="Al Jazeera Mubasher (1080p)" tvg-logo="https://yt3.googleusercontent.com/95qHtOgBMsPaDUwAAacr9DDr8jLTg5LcguOQepnAOw4MJDdLG0k164rs8TjdEUThfcssJ3YgoQ=s900-c-k-c0x00ffffff-no-rj" group-title="News",Al Jazeera Mubasher (1080p)
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 #EXTINF:-1 tvg-id="AlMamlakaTV.jo" tvg-name="Al Mamlaka TV (1080p)" tvg-logo="https://i.imgur.com/UeTseMV.png" group-title="News",Al Mamlaka TV (1080p)
